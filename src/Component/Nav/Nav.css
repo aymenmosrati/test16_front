@@ -1,0 +1,13 @@
+.logo{
+width: 48px;
+}
+.name-prj{
+font-size: 28px;
+color:rgb(82, 53, 27);
+font-weight: bold;
+margin:auto 0;
+}
+
+@media all and (max-width: 1000px) {
+   
+}

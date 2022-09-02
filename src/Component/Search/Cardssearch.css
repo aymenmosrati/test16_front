@@ -1,0 +1,77 @@
+.b-c{
+margin-bottom: -130px;
+}
+.scrol-card-s{
+    /* margin:0px; */
+    overflow: hidden;
+    margin-top:-15px;
+    margin-bottom:-15px;
+    margin-left: 0px;
+    margin-right: 400px;
+}
+
+.container-s{
+    display: flex;
+    overflow-x: scroll;
+    /* margin:0px; */
+    
+}
+
+.container-s::-webkit-scrollbar {
+    overflow: hidden;
+}
+
+.card-sugg-s {
+    margin:12px;
+    padding: 0px;
+    min-width: 220px;
+    width: 220px;
+    height: 300px;
+    border-radius: 30px;
+    box-shadow: 0 3px 5px 0px rgb(235, 233, 233)
+}
+
+.c-img-s {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0 60px 20px 0px rgb(233, 233, 233);
+    margin: 0px;
+}
+
+.card-body{
+    margin: 5px;
+    padding: 0px;
+}
+
+.name-food-s{
+    font-weight:700;
+}
+
+.card-text-s{
+    /* font-size: 13px; */
+    color:rgb(168, 98, 98);
+    opacity:0.9;
+}
+
+.card-time-s {
+    background-color: rgb(248, 240, 240);
+    width: 150px;
+    height: 25px;
+    border-radius: 50px;
+    display: flex;
+    margin-top: 25px;
+}
+
+.c-i-time-s {
+    width: 20px;
+    margin:auto;
+}
+
+.time-s {
+    color: rgb(122, 97, 97);
+    font-size: 12px;
+    font-weight: 800;
+    margin:auto;
+    padding-right:5px;
+} 
